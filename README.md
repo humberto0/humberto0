@@ -1,4 +1,4 @@
-## Olá eu sou Humberto, Desenvolmento web | Javascript | React.js | Node.js | React native | Full stack !
+## Olá eu sou Humberto, Desenvolmento web | React.js | Node.js | React native | Full stack !
 
 Sou especialista em desenvolvimento de web. Como um profissional polivalente, sou capaz de me adaptar a diferentes linguagens e tecnologias com o intuito de potencializar a eficiência, segurança e inovação dos projetos.
 Além disso, tenho experiência utilizando metodologias ágeis para a gestão efetiva dos colaboradores. Sou experiente em lidar com desafios e encontrar soluções viáveis para a resolução de problemas.
