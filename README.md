@@ -9,7 +9,7 @@ Minha afinidade com a tecnologia me torna um profissional altamente versátil e 
 <br>
 <br>
   <a href="https://github.com/humberto0">
-  <img width="46%" style="marginRight: 15px" src="https://github-readme-stats.vercel.app/api?username=humberto0&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
+  <img width="46%" style="margin_right: 15px" src="https://github-readme-stats.vercel.app/api?username=humberto0&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humberto0&layout=compact&langs_count=7&theme=onedark"/>
   
 </div>
