@@ -5,7 +5,7 @@ Além disso, tenho experiência utilizando metodologias ágeis para a gestão ef
 Minha afinidade com a tecnologia me torna um profissional altamente versátil e adaptável em qualquer área de atuação.<br>
 
 
-<div align="center" style="gap: 20px">
+<div align="center" style="display: flex, justifyContent:space-between">
 <br>
 <br>
   <a href="https://github.com/humberto0">
