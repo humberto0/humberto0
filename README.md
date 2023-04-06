@@ -4,6 +4,16 @@
 Além disso, tenho experiência utilizando metodologias ágeis para a gestão efetiva dos colaboradores. Sou experiente em lidar com desafios e encontrar soluções viáveis para a resolução de problemas.
 Minha afinidade com a tecnologia me torna um profissional altamente versátil e adaptável em qualquer área de atuação.<br>
 
+
+<div align="center">
+<br>
+<br>
+  <a href="https://github.com/humberto0">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JMarcolinoGS&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humberto0&layout=compact&langs_count=7&theme=onedark"/>
+  
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
