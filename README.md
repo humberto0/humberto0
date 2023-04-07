@@ -32,7 +32,7 @@ Game pokemon ⚛
 <div align="left">
 <br>
   <a href="https://github.com/humberto0">
-  <img width="54%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humberto0&layout=compact&langs_count=7&theme=onedark"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humberto0&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
 <div style="display: inline_block"><br>
