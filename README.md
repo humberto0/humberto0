@@ -11,8 +11,7 @@ Minha afinidade com a tecnologia me torna um profissional altamente versátil e 
 Go Barber ⚛
   <br>
   
-![Captura de tela de 2023-04-05 16-51-22](https://user-images.githubusercontent.com/15384670/230660204-3e00ffea-8d6f-4998-b4b9-28f1814a7470.png)
-
+![Captura de tela de 2023-04-07 15-34-27](https://user-images.githubusercontent.com/15384670/230660287-4feb5b6f-6c80-44a8-8c68-2e3fb7b12ec7.png)
  
  </div>
   <br>
