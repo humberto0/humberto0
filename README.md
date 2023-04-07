@@ -7,7 +7,7 @@ Minha afinidade com a tecnologia me torna um profissional altamente versátil e 
 ## 👨‍💻 Projects
 
 <code>
-<a  href="https://github.com/humberto0">
+<a  href="https://github.com/humberto0" style="text-decoration: none">
 
 ![Captura de tela de 2023-04-07 14-11-20](https://user-images.githubusercontent.com/15384670/230651821-c410cbfa-8713-425f-8c63-3f854aea7773.png)
   </a>
