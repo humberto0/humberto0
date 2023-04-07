@@ -9,13 +9,17 @@ Minha afinidade com a tecnologia me torna um profissional altamente versátil e 
 <div align="center" >
 <div align="center" style="display: block">
 Go Barber ⚛
+ 
 ![Captura de tela de 2023-04-07 14-11-20](https://user-images.githubusercontent.com/15384670/230651821-c410cbfa-8713-425f-8c63-3f854aea7773.png)
+ 
  </div>
   <br>
   <br>
 <div align="center" >
 Game pokemon ⚛
+ 
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/15384670/230655431-f485bedd-8819-4e9c-a83e-3e6589f11ad1.gif)
+ 
  </div>
 </div>
 
