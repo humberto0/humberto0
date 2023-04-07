@@ -10,7 +10,8 @@ Minha afinidade com a tecnologia me torna um profissional altamente versátil e 
 ![Captura de tela de 2023-04-07 14-11-20](https://user-images.githubusercontent.com/15384670/230651821-c410cbfa-8713-425f-8c63-3f854aea7773.png)
 
 
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/15384670/230654977-d98e86dc-767e-400d-8277-538f8a6fbfcd.gif)
+![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/15384670/230655358-a0160130-a7cf-4e95-816a-b781462047e6.gif)
+
 
 
 
