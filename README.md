@@ -6,7 +6,7 @@ Minha afinidade com a tecnologia me torna um profissional altamente versátil e 
 
 ## 👨‍💻 Projects
 
-  React![gaming](https://user-images.githubusercontent.com/15384670/230650778-a6a761b8-58ad-4293-98e3-50045a61e213.png)
+⚛React
 
 ![Loom___Free_Screen___Video_Recording_Software___Loom_-_3_April_2023_AdobeExpress](https://user-images.githubusercontent.com/15384670/230650867-c6f278bb-a45f-43fe-b9e0-98375bfb32d5.gif)
 
