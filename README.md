@@ -4,6 +4,12 @@
 Além disso, tenho experiência utilizando metodologias ágeis para a gestão efetiva dos colaboradores. Sou experiente em lidar com desafios e encontrar soluções viáveis para a resolução de problemas.
 Minha afinidade com a tecnologia me torna um profissional altamente versátil e adaptável em qualquer área de atuação.<br>
 
+## 👨‍💻 Projects
+
+  React![gaming](https://user-images.githubusercontent.com/15384670/230650778-a6a761b8-58ad-4293-98e3-50045a61e213.png)
+
+![Loom___Free_Screen___Video_Recording_Software___Loom_-_3_April_2023_AdobeExpress](https://user-images.githubusercontent.com/15384670/230650867-c6f278bb-a45f-43fe-b9e0-98375bfb32d5.gif)
+
 
 <div align="center">
 <br>
