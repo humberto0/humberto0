@@ -14,8 +14,9 @@ Portfolio ⚛
   
   <a href="https://portifolio-humberto-dev.vercel.app/">
   
-   ![Captura de tela de 2023-04-18 09-56-01](https://user-images.githubusercontent.com/15384670/232786113-513445f0-f944-4b49-b334-0962c94aa661.png)
- 
+    
+ ![Captura de tela de 2023-04-18 09-56-01 (1)](https://user-images.githubusercontent.com/15384670/232786211-6967b514-0efc-45af-a194-800abf392757.png)
+
     
   </a>
  
