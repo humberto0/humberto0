@@ -23,6 +23,12 @@ Game pokemon ⚛
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/15384670/230655431-f485bedd-8819-4e9c-a83e-3e6589f11ad1.gif)
  
  </div>
+  <div align="left" >
+Employee Management⚛
+  <br>
+  ![Employee Management ](https://user-images.githubusercontent.com/15384670/232780223-2c94904b-cb00-4da1-9821-5221146bda96.png)
+ 
+ </div>
 </div>
 
 
