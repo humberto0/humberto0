@@ -11,11 +11,13 @@ Minha afinidade com a tecnologia me torna um profissional altamente versátil e 
 Portfolio ⚛
   
   <br>
+  <br>
   
   <a href="https://portifolio-humberto-dev.vercel.app/">
   
     
- ![Captura de tela de 2023-04-18 09-56-01 (1)](https://user-images.githubusercontent.com/15384670/232786211-6967b514-0efc-45af-a194-800abf392757.png)
+![Captura de tela de 2023-04-18 09-56-01 (1)_Easy-Resize com](https://user-images.githubusercontent.com/15384670/232786584-2742d5e5-4267-4f73-a7e6-d81852afb5ff.jpg)
+
 
     
   </a>
