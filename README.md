@@ -12,14 +12,15 @@ Portfolio ⚛
   
   <br>
   
-  <a href"https://portifolio-humberto-dev.vercel.app/">
+  <a href="https://portifolio-humberto-dev.vercel.app/">
   
-  ![Captura de tela de 2023-04-18 09-56-01](https://user-images.githubusercontent.com/15384670/232784707-a92000bf-bd4f-4ba2-8710-f1d5ad354a03.png)
+ ![Captura de tela de 2023-04-18 10-00-16](https://user-images.githubusercontent.com/15384670/232785403-812c99a4-461c-4aa6-a4f7-18a1ff454942.png)
     
   </a>
  
  </div>
   
+<div align="left">  
   
 Go Barber ⚛
   <br>
