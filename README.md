@@ -35,7 +35,6 @@ Go Barber ⚛
   <br>
   <br>
 <div align="left" >
-  
 Game pokemon ⚛
   
   <br>
