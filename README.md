@@ -35,7 +35,10 @@ Go Barber ⚛
   <br>
   <br>
 <div align="left" >
+  
 Game pokemon ⚛
+  
+  <br>
   <br>
   
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/15384670/230655431-f485bedd-8819-4e9c-a83e-3e6589f11ad1.gif)
@@ -43,6 +46,8 @@ Game pokemon ⚛
  </div>
   <div align="left" >
 Employee Management⚛
+    
+  <br>
   <br>
     
  ![Captura de tela de 2023-04-18 09-42-21](https://user-images.githubusercontent.com/15384670/232780823-7919d7c3-b78c-4ef0-9b2d-a7eafc004f60.png)
