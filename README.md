@@ -13,7 +13,7 @@ Portfolio ⚛
   <br>
   <br>
   
-  <a href="https://portifolio-humberto-dev.vercel.app/">
+  <a href="https://portfolio-humberto.vercel.app/">
   
     
 
