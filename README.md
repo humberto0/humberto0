@@ -35,10 +35,3 @@ I'm a full-stack developer based in Manaus, Brazil, currently at **FIT-FLEX**. I
 | [**movies-app**](https://github.com/humberto0/movies-app) | Movie search app with details, ratings and a favorites list, backed by an external API | React · Redux Toolkit |
 
 See [pinned repositories](https://github.com/humberto0?tab=repositories) for the full list.
-
-## GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=humberto0&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humberto0&layout=compact&langs_count=8&hide_border=true" />
-</div>
