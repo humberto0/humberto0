@@ -1,87 +1,44 @@
-## 🎓 Olá eu sou Humberto, Desenvolmento web | React.js | Node.js | React native | Full stack
+<div align="center">
 
-<br>Sou especialista em desenvolvimento de web. Como um profissional polivalente, sou capaz de me adaptar a diferentes linguagens e tecnologias com o intuito de potencializar a eficiência, segurança e inovação dos projetos.
-Além disso, tenho experiência utilizando metodologias ágeis para a gestão efetiva dos colaboradores. Sou experiente em lidar com desafios e encontrar soluções viáveis para a resolução de problemas.
-Minha afinidade com a tecnologia me torna um profissional altamente versátil e adaptável em qualquer área de atuação.<br>
+# Humberto Junior
 
-## 👨‍💻 Projects
+Full-stack developer · Go · TypeScript · Node.js
 
-<div align="center" >
-<div align="left">
-Portfolio ⚛
-  
-  <br>
-  <br>
-  
-  <a href="https://portfolio-humberto.vercel.app/">
-  
-    
+[![Website](https://img.shields.io/badge/-humberto--dev.com.br-333?style=for-the-badge&logo=firefox&logoColor=white)](https://www.humberto-dev.com.br/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humberto-ferreira-114250135)
+[![Gmail](https://img.shields.io/badge/-Email-333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:humbertofejr@gmail.com)
 
-![Captura de tela de 2023-04-18 09-56-01 (1)_Easy-Resize com (1)](https://user-images.githubusercontent.com/15384670/232787221-f2b0974a-f87c-4543-bacd-cd43255979e2.jpg)
-
-
-    
-  </a>
- 
- </div>
-  
-<div align="left">  
-  
-Go Barber ⚛
-  <br>
-  
-![Captura de tela de 2023-04-07 15-34-27](https://user-images.githubusercontent.com/15384670/230660287-4feb5b6f-6c80-44a8-8c68-2e3fb7b12ec7.png)
- 
- </div>
-  <br>
-  <br>
-<div align="left" >
-Game pokemon ⚛
-  
-  <br>
-  <br>
-  
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/15384670/230655431-f485bedd-8819-4e9c-a83e-3e6589f11ad1.gif)
- 
- </div>
-  <div align="left" >
-Employee Management⚛
-    
-  <br>
-  <br>
-    
- ![Captura de tela de 2023-04-18 09-42-21](https://user-images.githubusercontent.com/15384670/232780823-7919d7c3-b78c-4ef0-9b2d-a7eafc004f60.png)
- 
- </div>
 </div>
 
+I'm a full-stack developer based in Manaus, Brazil, currently at **FIT-FLEX**. I work across the stack — Go and Node.js on the backend, React and React Native on the front — and I'm most interested in getting the domain model and data integrity right before anything else.
 
+## Tech Stack
 
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+## Featured Projects
 
+| Project | Description | Stack |
+|---|---|---|
+| [**shopkeeper**](https://github.com/humberto0/shopkeeper) | Stock and sales management API for small shop owners — layered architecture, immutable stock ledger, transactional sales, JWT auth | Go · PostgreSQL |
+| [**back-end-society**](https://github.com/humberto0/back-end-society) | Backend for managing Bible contests, quizzes, attendance, events and membership for religious communities | Go |
+| [**solar-panel-application-front-end**](https://github.com/humberto0/solar-panel-application-front-end) | Web app for solar panel installation quote requests, with login and account management | React · TypeScript |
+| [**movies-app**](https://github.com/humberto0/movies-app) | Movie search app with details, ratings and a favorites list, backed by an external API | React · Redux Toolkit |
 
+See [pinned repositories](https://github.com/humberto0?tab=repositories) for the full list.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
-</div>
+## GitHub Stats
 
-<div align="left">
-<br>
-  <a href="https://github.com/humberto0">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humberto0&layout=compact&langs_count=7&theme=onedark"/>
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/humbertojj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/channels/590261328686481419/590606527778258954" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:humbertofejr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/humberto-ferreira-114250135" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=humberto0&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humberto0&layout=compact&langs_count=8&hide_border=true" />
 </div>
