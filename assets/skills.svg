@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="196" viewBox="0 0 840 196" role="img" aria-label="Skills: Go, TypeScript, JavaScript, Node.js, NestJS, React, Next.js, React Native, Angular, PostgreSQL, Docker, LLM / IA">
+<style>
+  text { font-family: 'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace; }
+  .chip { opacity: 0; animation: pop .5s ease-out forwards; }
+  @keyframes pop { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+</style>
+<rect width="840" height="196" rx="14" fill="#121214"/>
+<circle cx="30" cy="24" r="6" fill="#ED6A5E"/><circle cx="50" cy="24" r="6" fill="#F4BF4F"/><circle cx="70" cy="24" r="6" fill="#61C554"/>
+<text x="36" y="60" font-size="15" fill="#8F8CA8"><tspan fill="#09F755">~</tspan> $ cat skills.txt</text>
+<g class="chip" style="animation-delay:0.15s"><rect x="36.0" y="78" width="54.0" height="36" rx="6" fill="#19191B" stroke="#09F755" stroke-opacity=".45"/><text x="63.0" y="101.0" text-anchor="middle" font-size="15" fill="#09F755" textLength="18.0" lengthAdjust="spacingAndGlyphs">Go</text></g>
+<g class="chip" style="animation-delay:0.23s"><rect x="102.0" y="78" width="126.0" height="36" rx="6" fill="#19191B" stroke="#09F755" stroke-opacity=".45"/><text x="165.0" y="101.0" text-anchor="middle" font-size="15" fill="#09F755" textLength="90.0" lengthAdjust="spacingAndGlyphs">TypeScript</text></g>
+<g class="chip" style="animation-delay:0.31s"><rect x="240.0" y="78" width="126.0" height="36" rx="6" fill="#19191B" stroke="#09F755" stroke-opacity=".45"/><text x="303.0" y="101.0" text-anchor="middle" font-size="15" fill="#09F755" textLength="90.0" lengthAdjust="spacingAndGlyphs">JavaScript</text></g>
+<g class="chip" style="animation-delay:0.39s"><rect x="378.0" y="78" width="99.0" height="36" rx="6" fill="#19191B" stroke="#09F755" stroke-opacity=".45"/><text x="427.5" y="101.0" text-anchor="middle" font-size="15" fill="#09F755" textLength="63.0" lengthAdjust="spacingAndGlyphs">Node.js</text></g>
+<g class="chip" style="animation-delay:0.47s"><rect x="489.0" y="78" width="90.0" height="36" rx="6" fill="#19191B" stroke="#09F755" stroke-opacity=".45"/><text x="534.0" y="101.0" text-anchor="middle" font-size="15" fill="#09F755" textLength="54.0" lengthAdjust="spacingAndGlyphs">NestJS</text></g>
+<g class="chip" style="animation-delay:0.55s"><rect x="591.0" y="78" width="81.0" height="36" rx="6" fill="#19191B" stroke="#09F755" stroke-opacity=".45"/><text x="631.5" y="101.0" text-anchor="middle" font-size="15" fill="#09F755" textLength="45.0" lengthAdjust="spacingAndGlyphs">React</text></g>
+<g class="chip" style="animation-delay:0.63s"><rect x="684.0" y="78" width="99.0" height="36" rx="6" fill="#19191B" stroke="#09F755" stroke-opacity=".45"/><text x="733.5" y="101.0" text-anchor="middle" font-size="15" fill="#09F755" textLength="63.0" lengthAdjust="spacingAndGlyphs">Next.js</text></g>
+<g class="chip" style="animation-delay:0.71s"><rect x="36.0" y="126" width="144.0" height="36" rx="6" fill="#19191B" stroke="#09F755" stroke-opacity=".45"/><text x="108.0" y="149.0" text-anchor="middle" font-size="15" fill="#09F755" textLength="108.0" lengthAdjust="spacingAndGlyphs">React Native</text></g>
+<g class="chip" style="animation-delay:0.79s"><rect x="192.0" y="126" width="99.0" height="36" rx="6" fill="#19191B" stroke="#09F755" stroke-opacity=".45"/><text x="241.5" y="149.0" text-anchor="middle" font-size="15" fill="#09F755" textLength="63.0" lengthAdjust="spacingAndGlyphs">Angular</text></g>
+<g class="chip" style="animation-delay:0.87s"><rect x="303.0" y="126" width="126.0" height="36" rx="6" fill="#19191B" stroke="#09F755" stroke-opacity=".45"/><text x="366.0" y="149.0" text-anchor="middle" font-size="15" fill="#09F755" textLength="90.0" lengthAdjust="spacingAndGlyphs">PostgreSQL</text></g>
+<g class="chip" style="animation-delay:0.95s"><rect x="441.0" y="126" width="90.0" height="36" rx="6" fill="#19191B" stroke="#09F755" stroke-opacity=".45"/><text x="486.0" y="149.0" text-anchor="middle" font-size="15" fill="#09F755" textLength="54.0" lengthAdjust="spacingAndGlyphs">Docker</text></g>
+<g class="chip" style="animation-delay:1.03s"><rect x="543.0" y="126" width="108.0" height="36" rx="6" fill="#19191B" stroke="#09F755" stroke-opacity=".45"/><text x="597.0" y="149.0" text-anchor="middle" font-size="15" fill="#09F755" textLength="72.0" lengthAdjust="spacingAndGlyphs">LLM / IA</text></g>
+</svg>

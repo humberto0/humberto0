@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="300" viewBox="0 0 840 300" role="img" aria-label="Humberto Junior — Front-end + Back-end">
+<style>
+  text { font-family: 'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace; }
+  .type { animation: type 1.8s steps(15) .6s forwards; }
+  .cursor { animation: move 1.8s steps(15) .6s forwards, blink 1s step-end infinite; }
+  .fade { opacity: 0; animation: fade .8s ease-out 2.6s forwards; }
+  .fade2 { opacity: 0; animation: fade .8s ease-out 3.1s forwards; }
+  .wiggle { transform-box: fill-box; transform-origin: center; animation: wiggle 1.2s ease-in-out infinite; }
+  @keyframes type { from { width: 0; } to { width: 544px; } }
+  @keyframes move { from { transform: translateX(0); } to { transform: translateX(540px); } }
+  @keyframes blink { 50% { opacity: 0; } }
+  @keyframes fade { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+  @keyframes wiggle { 0%,100% { transform: translateX(0); } 50% { transform: translateX(4px); } }
+</style>
+<defs><clipPath id="c"><rect class="type" x="60" y="120" width="0" height="80"/></clipPath></defs>
+<rect width="840" height="300" rx="14" fill="#121214"/>
+<text x="36" y="48" font-size="22" font-weight="700" fill="#09F755" class="wiggle">&gt;</text>
+<text x="60" y="48" font-size="20" font-weight="700" fill="#FAFAFA">Humberto</text>
+<text x="60" y="118" font-size="17" fill="#FAFAFA" letter-spacing="3">OLÁ, EU SOU</text>
+<text x="60" y="182" font-size="60" font-weight="700" fill="#FFFFFF" textLength="540" lengthAdjust="spacingAndGlyphs" clip-path="url(#c)">Humberto Junior</text>
+<rect class="cursor" x="62" y="134" width="5" height="56" fill="#09F755"/>
+<text x="60" y="230" font-size="20" fill="#09F755" letter-spacing="4" class="fade">FRONT-END + BACK-END</text>
+<text x="60" y="264" font-size="15" fill="#BDC4C9" class="fade2">Full Stack Sênior · Node.js (NestJS) · Go · React · Manaus, BR</text>
+</svg>
