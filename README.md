@@ -3,9 +3,9 @@
 <img src="./assets/header.svg" alt="Humberto Junior — Front-end + Back-end" width="100%"/>
 
 <p>
-  <a href="https://www.humberto-dev.com.br/"><img src="https://img.shields.io/badge/humberto--dev.com.br-121214?style=for-the-badge&logo=firefox&logoColor=09F755" alt="humberto-dev.com.br"/></a>
-  <a href="https://www.linkedin.com/in/humberto-ferreira-114250135"><img src="https://img.shields.io/badge/LinkedIn-121214?style=for-the-badge&logo=linkedin&logoColor=09F755" alt="LinkedIn"/></a>
-  <a href="mailto:humbertofejr@gmail.com"><img src="https://img.shields.io/badge/Email-121214?style=for-the-badge&logo=gmail&logoColor=09F755" alt="Email"/></a>
+  <a href="https://www.humberto-dev.com.br/"><img src="https://img.shields.io/badge/humberto--dev.com.br-0D1117?style=for-the-badge&logo=firefox&logoColor=09F755" alt="humberto-dev.com.br"/></a>
+  <a href="https://www.linkedin.com/in/humberto-ferreira-114250135"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=09F755" alt="LinkedIn"/></a>
+  <a href="mailto:humbertofejr@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=09F755" alt="Email"/></a>
 </p>
 
 </div>

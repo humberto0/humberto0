@@ -13,7 +13,7 @@
   @keyframes wiggle { 0%,100% { transform: translateX(0); } 50% { transform: translateX(4px); } }
 </style>
 <defs><clipPath id="c"><rect class="type" x="60" y="120" width="0" height="80"/></clipPath></defs>
-<rect width="840" height="300" rx="14" fill="#121214"/>
+<rect width="840" height="300" rx="14" fill="#0D1117"/>
 <text x="36" y="48" font-size="22" font-weight="700" fill="#09F755" class="wiggle">&gt;</text>
 <text x="60" y="48" font-size="20" font-weight="700" fill="#FAFAFA">Humberto</text>
 <text x="60" y="118" font-size="17" fill="#FAFAFA" letter-spacing="3">OLÁ, EU SOU</text>
